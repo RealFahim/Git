@@ -14,3 +14,15 @@
 ====>git reset --hard eitar mane dhoro amra ekta file delet kore felchi manually amra chai shai file ta amra abar firot anbo tokhon ei code dile delet file fire ashbe 
 
 ====>git rm mane file manualy dlt na kore code diye dlt korar system 
+
+
+Branching Shikhbo Ekhane 
+
+=>git branch mane hoilo branch check kora
+=>bit branch new branch name dile new branch khulbe example: git branch code
+=>git checkout code mane hoilo master branch theke switch kore code branch e ashlam
+
+Merge Shikhbo Ekhon
+=>merge hocche code branch e jae change korlam ta ami master branch e add korbo
+
+
