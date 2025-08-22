@@ -10,3 +10,7 @@
 ====>git add *.txt mane .txt extention jukto shob file stage e tuila felbe 
 ====>git commit -m "note dite hobe ekta " eita git add er pore kora lage 
 ====>git reset HEAD~ er mane commit korar pore jodi mone na commit thik nai ager obosthai jabo tahole ei code diye ager obosthai jabo
+
+====>git reset --hard eitar mane dhoro amra ekta file delet kore felchi manually amra chai shai file ta amra abar firot anbo tokhon ei code dile delet file fire ashbe 
+
+====>git rm mane file manualy dlt na kore code diye dlt korar system 
