@@ -8,3 +8,5 @@
 ====>touch diye new folder creat hoi
 ====>git add . dile shob stage e tule felbe 
 ====>git add *.txt mane .txt extention jukto shob file stage e tuila felbe 
+====>git commit -m "note dite hobe ekta " eita git add er pore kora lage 
+====>git reset HEAD~ er mane commit korar pore jodi mone na commit thik nai ager obosthai jabo tahole ei code diye ager obosthai jabo
