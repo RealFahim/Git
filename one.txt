@@ -1,0 +1,10 @@
+1.Ekta Remote Repository Theke Amra jodi Repo Take copy kore folder e ani Tahole Use korte Hobe 
+
+====>cd ../ er mane jae drive e achi oi drive theke ber hoye jabo 
+====>git clone https://github.com/RealFahim/Git.git Link copy kore ene chere dilai hobe 
+====>cd /d mane D Folder er vitore dhuktechi
+====>ls mane folder er vitore ki file ache ta dekhabe
+====>pwd Diye Kon folder e achi dekha jai 
+====>touch diye new folder creat hoi
+====>git add . dile shob stage e tule felbe 
+====>git add *.txt mane .txt extention jukto shob file stage e tuila felbe 
